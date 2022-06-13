@@ -1,0 +1,9 @@
+{
+    "users": [
+        {
+            "name": "Paulo",
+            "age": 31,
+            "gender": "male"
+        }
+    ]
+}
